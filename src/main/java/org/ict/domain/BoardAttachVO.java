@@ -7,8 +7,8 @@ public class BoardAttachVO {
 
 	private String uuid;
 	private String uploadPath;
-	private String name;
-	private boolean type;
+	private String fileName;
+	private boolean fileType;
 	
 	private Long bno;
 }
